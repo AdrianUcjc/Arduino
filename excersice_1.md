@@ -1,4 +1,4 @@
-# Excercise 1:
+# 🤖Excercise 1:🤖
 
 ## Create a circuit with 3 LED's; the LED PIN 13 should blink regurlarly, the LED PIN 12 two times slower and LED PIN 11 four times slower.
 
