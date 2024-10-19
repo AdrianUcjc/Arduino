@@ -1,7 +1,7 @@
 # Excercise 2:
 
 ## Create a traffic light with an Arduino:
-The sequence goes:
+The sequence goes as follows:
 > 1. Turn on for 5 seconds the green LED.
 > 2. Flash the green LED 3 times, each flash being 2 seconds long.
 > 3. Turn on the yellow LED for 3 seconds.
