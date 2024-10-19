@@ -35,5 +35,4 @@ void loop() {
 
 }
 ```
-
-![Screenshot 2024-10-18 144932](https://github.com/user-attachments/assets/e83b6ad3-47cb-459e-a6df-1e890956e603)
+![Screenshot 2024-10-17 140745](https://github.com/user-attachments/assets/1a745a7d-8ba2-4f23-96d9-5c114cffb113)
