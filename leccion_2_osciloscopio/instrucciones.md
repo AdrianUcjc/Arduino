@@ -1,0 +1,1 @@
+Overhead se ha reducido, frecuencia y serial.begin se ha subido al máximo para realizar más tomas.
